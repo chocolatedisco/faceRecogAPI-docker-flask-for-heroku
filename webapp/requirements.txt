@@ -1,4 +1,10 @@
+opencv-python
 gunicorn
 Flask
 Jinja2
 Werkzeug
+tensorflow
+Keras
+h5py
+numpy
+pillow
